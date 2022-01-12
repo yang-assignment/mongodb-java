@@ -1,1 +1,1 @@
-# mongodb-java
+# nosql-java
